@@ -70,7 +70,7 @@ await connection.getRepository(Employee).find({
 ```
 
 ### How Does It Work?
-Sorry for JavaScript users, but LINQxy uses TypeScript transformer [typescript-expression-transformer](https://github.com/Hookyns/expression-transformer). See the repo of the expression transformer for more information.
+Sorry to JavaScript users, but LINQxy uses TypeScript transformer [typescript-expression-transformer](https://github.com/Hookyns/expression-transformer). See the repo of the expression transformer for more information.
 
 Is there a volunteer to create the Babel transform plugin?
 
