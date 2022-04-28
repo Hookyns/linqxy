@@ -6,6 +6,11 @@
 ## What is LINQxy for?
 LINQxy is a standard for data querying in TypeScript. It's a proxy translating LINQ queries into different query objects for different libraries (depends on plugins). You can write LINQ and use it to query MongoDB, TypeORM, ZangoDB (IndexDB) or anything else.
 
+## Related Projects
+- [tst-expression](https://github.com/Hookyns/tst-expression) - C# like expression
+- [tst-reflect](https://github.com/Hookyns/tst-reflect) - runtime reflection
+
+
 ## How the LINQxy Looks Like?
 Lets have an interface of the data record we want to query.
 ```typescript
