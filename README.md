@@ -98,7 +98,7 @@ class Queryable<TRecord>
 ```
 
 ## Plugins
-Plugins must implement IQueryGenerator interface. See wiky. **TODO**
+Plugins must implement IQueryGenerator interface. See wiki. **TODO**
 
 Optionaly, it can extend Queryable object and provide some extra functionality.
 Eg. like TypeORM plugin:
